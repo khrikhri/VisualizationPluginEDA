@@ -17,7 +17,10 @@ public class EDAVisConfig implements VisualizableConfiguration {
     private String id;
     EDAPlayer player;
     List<File> files;
-    private final String[] creators = {"capturepluginbitalino.BitalinoRecorder"};
+    private final String[] creators = {"capturepluginbitalino.BitalinoRecorder2",
+    "capturepluginbitalino.BitalinoRecorder4",
+    "capturepluginbitalino.BitalinoRecorder5",
+    "capturepluginbitalino.BitalinoRecorder6"};
     
 
     public EDAVisConfig() {
